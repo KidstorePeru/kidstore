@@ -1,0 +1,24 @@
+{
+  "name": "tienda-kidstore-v2",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdz3/store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdz3/store/issues"
+  },
+  "homepage": "https://github.com/sdz3/store#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
